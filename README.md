@@ -1,4 +1,6 @@
 # OCR提交结果leak检查
+demo 地址: https://share.streamlit.io/jiaqiangbandongg/ocr-leak-check/main/app.py
+
 科技金融子赛道——基于文本字符的交易验证码识别 专用
 
 比赛地址: https://www.dcic-china.com/competitions/10023/
